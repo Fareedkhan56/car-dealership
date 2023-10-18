@@ -1,0 +1,7 @@
+C:\Users\MS Computer\OneDrive\Desktop\C# work\car Dealership\Car-Dealership\Car-Dealership\bin\Debug\Car-Dealership.exe.config
+C:\Users\MS Computer\OneDrive\Desktop\C# work\car Dealership\Car-Dealership\Car-Dealership\bin\Debug\Car-Dealership.exe
+C:\Users\MS Computer\OneDrive\Desktop\C# work\car Dealership\Car-Dealership\Car-Dealership\bin\Debug\Car-Dealership.pdb
+C:\Users\MS Computer\OneDrive\Desktop\C# work\car Dealership\Car-Dealership\Car-Dealership\obj\Debug\Car-Dealership.csproj.AssemblyReference.cache
+C:\Users\MS Computer\OneDrive\Desktop\C# work\car Dealership\Car-Dealership\Car-Dealership\obj\Debug\Car-Dealership.csproj.CoreCompileInputs.cache
+C:\Users\MS Computer\OneDrive\Desktop\C# work\car Dealership\Car-Dealership\Car-Dealership\obj\Debug\Car-Dealership.exe
+C:\Users\MS Computer\OneDrive\Desktop\C# work\car Dealership\Car-Dealership\Car-Dealership\obj\Debug\Car-Dealership.pdb
